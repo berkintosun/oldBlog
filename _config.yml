@@ -130,7 +130,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+sidebar:
+  nav: main
 
 # Reading Files
 include:
