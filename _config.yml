@@ -13,8 +13,6 @@
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-sidebar:
-  nav: main
 # Site Settings
 locale                   : "en-US"
 #title                    : "Site Title"
@@ -131,7 +129,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  sidebar:
+    nav: main
 
 # Reading Files
 include:
