@@ -99,11 +99,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Berkin Tosun"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Just a guy who loves coding, gaming and coffee! I also write game scenarios and planning to write game review blogs :)"
+  location         : "Tartu, Estonia"
+  email            : "berkintsn@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
