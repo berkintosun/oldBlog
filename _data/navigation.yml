@@ -1,6 +1,6 @@
 # main links
 main:
-  - title:
+  - title: "test"
     children:
       - title: "Blog"
         url: /
