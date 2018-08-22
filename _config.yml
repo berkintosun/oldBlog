@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Berkin Tosun"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Classic software engineer who loves coding, gaming and coffee!"
+  bio              : "Classic computer engineer who loves coding, gaming and coffee! Currently, studying for a master's degree for software engineering in University of Tartu. "
   location         : "Tartu, Estonia"
   email            : "berkintsn@gmail.com"
   uri              :
@@ -112,9 +112,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/berkintosun"
+  facebook         : "berkintosun"
   foursquare       :
-  github           : "https://github.com/berkintosun"
+  github           : "berkintosun"
   gitlab           :
   google_plus      :
   keybase          :
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/berkintsn"
+  twitter          : "berkintsn"
   vine             :
   weibo            :
   xing             :
